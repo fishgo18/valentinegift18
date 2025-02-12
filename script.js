@@ -23,7 +23,7 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "https://fishgo18.github.io/valentinegift1818/";
+    window.location.href = "https://fishgo18.github.io/valentinegift1818/index.html";
 }
 
 document.getElementById('playMusic').addEventListener('click', function () {
